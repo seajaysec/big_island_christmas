@@ -36,8 +36,8 @@ When compiling a large (100+ song count) playlist, there are many factors to con
       * 25% more chill
     * Micro
       * 60% Earnest, on-theme vocal
-      * 30% Earnest, on-theme instrumental
-      * 05% Funny/Gimmick Songs
+      * 39% Earnest, on-theme instrumental
+      * 01% Funny/Gimmick Songs
 
 ##### BIC Specific
 
