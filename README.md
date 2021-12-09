@@ -12,8 +12,6 @@ When compiling a large (100+ song count) playlist, there are many factors to con
 
 #### Composition Rubrics
 
-The rubric speficiations are organized by how general they are, describing if is this a rule that applies to all large shufflable playlists or just this one, and how strict they are.
-
 ##### General
 
 * Strict
