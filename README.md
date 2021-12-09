@@ -6,7 +6,7 @@ The goal of this playlist is to serve as background music for a Hawaiian themed 
 
 ## Guiding Principles
 
-When compiling a large (100+ song count) playlist, there are many factors to consider in order to maximize enjoyment by the largest number of listeners. Broadly, the composition should follow a set of strict and semi-strict rubrics, collaboration guidelines should be shared with anyone interested in contributing, and a description of the build process.
+When compiling a large (100+ song count) playlist, there are many factors to consider in order to maximize enjoyment by the largest number of listeners. Broadly, the composition should follow a set of strict and semi-strict rubrics, collaboration guidelines should be shared with anyone interested in contributing, and a description of the build process should be posted for review.
 
 *Note that any rule that describes guests includes playlist contributors.*
 
