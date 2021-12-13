@@ -83,10 +83,10 @@ It can be a challenge to adhere to the design principles of this playlist style 
 - [x] Search for lists of similar candidates and add those that seem like a fit:
   - [x] Official streaming service offerings
   - [x] Community shared playlists
-  - [ ] Music blog entries
+  - [x] Music blog entries
 - [x] Listen for 4+ hours to evaluate for fitness
-- [ ] Remove songs/artists/albums as appropriate
-- [ ] Repeat all steps above as needed
+- [x] Remove songs/artists/albums as appropriate
+- [x] Repeat all steps above as needed
 - [ ] Incorporate recommendations
 - [ ] Deduplicate
 - [ ] Finalize
